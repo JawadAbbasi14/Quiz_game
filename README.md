@@ -59,8 +59,10 @@ You can open the `index.html` file directly in any modern browser to start playi
 
 Here are some screenshots of the game:
 
-![Quiz Game Screenshot 1](screenshot1.png)  
-![Quiz Game Screenshot 2](screenshot2.png)
+![Quiz Game Screenshot 1](![image](https://github.com/user-attachments/assets/655ae891-a6f4-46ae-b7c0-8cc408dc2a46)
+.png)  
+![Quiz Game Screenshot 2](![image](https://github.com/user-attachments/assets/ca312e7e-0e1d-4e74-81d8-03d10adb4e29)
+.png)
 
 ---
 
@@ -75,14 +77,14 @@ Here are some screenshots of the game:
 ---
 
 ## 🧑‍🤝‍🧑 **Credits:**
-- Game developed by [Your Name](https://github.com/yourusername)
+- Game developed by [Jawad abbasi](https://github.com/jawadabbasi14)
 - Special thanks to [Any additional credits or resources].
 
 ---
 
 ## 💬 **Contact:**
 Feel free to reach out if you have any questions or suggestions!  
-[Email me](mailto:your.email@example.com)
+[Email me](jawadabbasi1107@gmail.com)
 
 ---
 
