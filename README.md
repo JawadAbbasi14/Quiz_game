@@ -18,7 +18,7 @@ Welcome to the **Quiz Game**! This is a simple yet engaging quiz game where you 
 ---
 
 ## 💻 **Live Demo:**
-[Play the Quiz Game Here!](https://example.com) 🎉  
+[Play the Quiz Game Here!](git clone https://github.com/jawadabbasi14/quiz-game.git) 🎉  
 *(Replace the link with your actual live demo URL)*
 
 ---
