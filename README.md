@@ -27,7 +27,7 @@ Welcome to the **Quiz Game**! This is a simple yet engaging quiz game where you 
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/quiz-game.git
+git clone https://github.com/jawadabbasi14/Quiz-game.git
 ```
 
 ### Step 2: Navigate to the Project Directory
