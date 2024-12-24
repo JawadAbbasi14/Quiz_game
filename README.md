@@ -1,7 +1,3 @@
-Here’s a sample **README.md** file for your quiz game project with added emojis and a live demo option:
-
----
-
 # Quiz Game 🎮✨
 
 Welcome to the **Quiz Game**! This is a simple yet engaging quiz game where you can test your knowledge on various topics. Challenge yourself and see how well you score! 🏆
